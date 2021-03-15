@@ -9,11 +9,10 @@ function App() {
         <Container>
           <h1>Search App</h1>
           <p>This is a simple search app</p>
-
           <SearchForm />
-          <Results />
         </Container>
       </Jumbotron>
+     <Results />
     </div>
   );
 }
